@@ -7,7 +7,7 @@ Bachelor of Electronics and Instrumentation graduate from Universitas Gadjah Mad
 
 ---
 
-## 🧰 QA & Testing Stack
+## QA & Testing Stack
 
 <p align="left">
   <!-- Testing & Automation -->
@@ -36,9 +36,9 @@ Bachelor of Electronics and Instrumentation graduate from Universitas Gadjah Mad
 
 ---
 
-## 💼 Software Quality Assurance Experience
+## Software Quality Assurance Experience
 
-### 🧪 Software QA Engineer Intern — Paper.id  
+### Software QA Engineer Intern — Paper.id  
 *Payment Gateway Squad · Remote · Jun 2025 – Dec 2025*  
 
 🔗 **QA Portfolio**: https://bit.ly/PortfolioSQA_MuhammadRayyan  
@@ -53,7 +53,7 @@ Bachelor of Electronics and Instrumentation graduate from Universitas Gadjah Mad
 
 ---
 
-### 🧪 Software QA Intern — Kick Avenue  
+### Software QA Intern — Kick Avenue  
 *E-Commerce Platform · Jakarta · Jan 2025 – Feb 2025*  
 
 🔗 **QA Portfolio**: https://bit.ly/PortfolioSQA_MuhammadRayyan  
@@ -70,12 +70,11 @@ Bachelor of Electronics and Instrumentation graduate from Universitas Gadjah Mad
 - Functional, Regression, SIT, and UAT Testing  
 - API Testing & Automation  
 - Test Case & Test Scenario Design  
-- Database-level validation  
+- Database-level validation (MySQL)  
 - Agile & SDLC environment experience  
 - Strong collaboration with developers & product teams  
 
 ---
 
 ## 📫 Let's Connect
-- LinkedIn: https://www.linkedin.com/in/muhammad-rayyan-dzaki-s  
-- GitHub: https://github.com/rayyandzaki
+- LinkedIn: https://www.linkedin.com/in/muhammad-rayyan-dzaki-s
