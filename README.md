@@ -38,8 +38,9 @@ Bachelor of Electronics and Instrumentation graduate from Universitas Gadjah Mad
 
 ## 💼 Software Quality Assurance Experience
 
-### 🧪 Software QA Engineer Intern — **Paper.id**
+### 🧪 Software QA Engineer Intern — Paper.id  
 *Payment Gateway Squad | Remote*  
+[🔗 QA Portfolio](https://bit.ly/PortfolioSQA_MuhammadRayyan)
 **Jun 2025 – Dec 2025**
 
 - Selected from **300+ applicants**
@@ -52,8 +53,9 @@ Bachelor of Electronics and Instrumentation graduate from Universitas Gadjah Mad
 
 ---
 
-### 🧪 Software QA Intern — **Kick Avenue**
+### 🧪 Software QA Intern — Kick Avenue  
 *E-Commerce Platform | Jakarta*  
+[🔗 QA Portfolio](https://bit.ly/PortfolioSQA_MuhammadRayyan)
 **Jan 2025 – Feb 2025**
 
 - Selected from **350+ applicants**
