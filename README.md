@@ -10,15 +10,29 @@ Bachelor of Electronics and Instrumentation graduate from Universitas Gadjah Mad
 ## 🧰 QA & Testing Stack
 
 <p align="left">
+  <!-- Testing & Automation -->
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gherkin-5FB709?style=for-the-badge&logo=cucumber&logoColor=white"/>
   <img src="https://img.shields.io/badge/WireMock-6DB33F?style=for-the-badge&logo=java&logoColor=white"/>
+
+  <!-- Programming -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+  <!-- Collaboration & Tracking -->
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+
+  <!-- DevOps & Cloud -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
+
 
 ---
 
