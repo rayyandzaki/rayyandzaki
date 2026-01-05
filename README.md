@@ -39,30 +39,29 @@ Bachelor of Electronics and Instrumentation graduate from Universitas Gadjah Mad
 ## 💼 Software Quality Assurance Experience
 
 ### 🧪 Software QA Engineer Intern — Paper.id  
-*Payment Gateway Squad | Remote*  
-[🔗 QA Portfolio](https://bit.ly/PortfolioSQA_MuhammadRayyan)
-**Jun 2025 – Dec 2025**
+*Payment Gateway Squad · Remote · Jun 2025 – Dec 2025*  
 
-- Selected from **300+ applicants**
-- Developed and maintained **automated API & web tests** using **Cypress (JavaScript, Gherkin-style scenarios)**
-- Contributed **40+ commits (~3.3K LOC)** to internal QA automation repository
-- Executed **end-to-end payment flow testing** (QRIS, e-wallets, credit cards, VA)
-- Used **WireMock** to simulate payment callbacks and **DBeaver** to validate MySQL records
-- Ran and summarized **12 automated regression cycles**, monitored via Slack bot & Cypress Dashboard
-- Created and maintained **500+ test cases**, shared via ClickUp for coverage tracking
+🔗 **QA Portfolio**: https://bit.ly/PortfolioSQA_MuhammadRayyan  
+
+- Selected from 300+ applicants  
+- Developed and maintained automated API & web tests using Cypress (JavaScript, Gherkin-style scenarios)  
+- Contributed 40+ commits (~3.3K LOC) to internal QA automation repository  
+- Executed end-to-end payment flow testing (QRIS, e-wallets, credit cards, VA)  
+- Used WireMock to simulate payment callbacks and DBeaver to validate MySQL records  
+- Ran and summarized 12 automated regression cycles, monitored via Slack bot & Cypress Dashboard  
+- Created and maintained 500+ test cases, shared via ClickUp for coverage tracking  
 
 ---
 
 ### 🧪 Software QA Intern — Kick Avenue  
-*E-Commerce Platform | Jakarta*  
-[🔗 QA Portfolio](https://bit.ly/PortfolioSQA_MuhammadRayyan)
-**Jan 2025 – Feb 2025**
+*E-Commerce Platform · Jakarta · Jan 2025 – Feb 2025*  
 
-- Selected from **350+ applicants**
-- Designed and executed **180+ functional test cases** across browsers & devices
-- Validated core workflows: product browsing, consignment, payment, order status
-- Reported frontend & backend defects using **Jira**, Postman, and browser dev tools
-- Delivered clear, reproducible bug reports with proper severity & priority
+🔗 **QA Portfolio**: https://bit.ly/PortfolioSQA_MuhammadRayyan  
+
+- Selected from 350+ applicants  
+- Designed and executed 180+ functional test cases across browsers & devices  
+- Validated core workflows: product browsing, consignment, payment, order status  
+- Reported frontend & backend defects using Jira, Postman, and browser dev tools  
 
 ---
 
